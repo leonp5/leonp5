@@ -1,4 +1,4 @@
-Find my projects at [GitLab](https://gitlab.com/leonp5) and (Codeberg)[https://codeberg.org/leonp5]
+Find my projects at [GitLab](https://gitlab.com/leonp5) and [Codeberg](https://codeberg.org/leonp5)
 
 🔭 I’m currently working on [UniHeads](https://app.uniheads.com) from [Simovative](https://www.simovative.com)
 
